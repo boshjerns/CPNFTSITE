@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/op.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/op.png");
   background-position: 50% 50%;
 }
 
@@ -241,7 +241,7 @@
     height: 75px;
   }
 } .u-section-2 {
-  background-image: url("images/op1.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/op1.png");
   background-position: 50% 50%;
 }
 
